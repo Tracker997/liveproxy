@@ -34,10 +34,10 @@ setup(
     description='LiveProxy can redirect Livestreams to your favorite player',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/back-to/liveproxy',
+    url='https://github.com/Tracker997/liveproxy',
     project_urls={
-        'Source': 'https://github.com/back-to/liveproxy/',
-        'Tracker': 'https://github.com/back-to/liveproxy/issues',
+        'Source': 'https://github.com/Tracker997/liveproxy',
+        'Tracker': 'https://github.com/Tracker997/liveproxy/issues',
     },
     author='back-to',
     author_email='backto@protonmail.ch',
